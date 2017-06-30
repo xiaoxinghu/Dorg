@@ -1,0 +1,7 @@
+* Dorg - Dynamic Org
+
+* Release
+
+#+BEGIN_SRC sh :results silent
+    agvtool new-marketing-version 0.1.0
+#+END_SRC
